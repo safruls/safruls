@@ -1,4 +1,13 @@
-## Hi there 👋
+## Greetings 👋
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+my+name+is+Safrul+Setiawan+Lauparenta.;Welcome+to+my+github+profile!;I+am+a+Full+Stack+Engineer.;&font=Fira%20Code&center=true&width=580&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
+
+## Skills
+- Full Stack Software Engineering
+- JavaScript, Golang
 
 <!--
 **safruls/safruls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
