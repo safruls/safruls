@@ -1,4 +1,4 @@
-## <p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+my+name+is+Safrul+Setiawan+Lauparenta+👋.;Welcome+to+my+github+profile!;I+am+a+Full+Stack+Engineer.;&font=Fira%20Code&center=true&width=580&height=50&duration=4000&pause=1000" alt="Personal Greetings"></p>
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=580&lines=Hi%2C+my+name+is+Safrul+Setiawan+Lauparenta+%F0%9F%91%8B.;Welcome+to+my+github+profile!)](https://git.io/typing-svg)
 
 ### Skills
 - Front-end technologies using HTML, CSS, and JavaScript
