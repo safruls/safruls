@@ -14,9 +14,9 @@ I'm a **Software Engineer** with a Master of Engineering degree from The Univers
 ## 🚀 Professional Experience
 
 ### **Fullstack Engineer** @ Paper.id *(May 2024 - Present)*
-- 🎨 Developed responsive web applications for Paper Dashboard and Paper Internal Dashboard using **Angular** and **Vue**, significantly improving user experience and cross-platform compatibility
-- 💳 Designed and implemented payment flow logic and third-party integrations using **Golang** and **RabbitMQ**, achieving a **20% improvement** in payment processing efficiency and **15% reduction** in integration errors
-- 📄 Built intuitive invoice forms and UI using **Laravel**, reducing user-reported issues by **30%** and streamlining invoice management
+- 🎨 Develop responsive web applications for Paper Dashboard and Paper Internal Dashboard using **Angular** and **Vue**, significantly improving user experience and cross-platform compatibility
+- 💳 Design and implement payment flow logic and third-party integrations using **Golang** and **RabbitMQ**, achieving a **20% improvement** in payment processing efficiency and **15% reduction** in integration errors
+- 📄 Build intuitive invoice forms and UI using **Laravel**, reducing user-reported issues by **30%** and streamlining invoice management for enterprises and SMEs
 
 ### **Software Engineer** @ Xendit *(Feb 2022 - Feb 2024)*
 - 🏗️ Improved dashboard reliability and performance by implementing micro-frontend architecture with **Webpack**, reducing load time by **40%** and enhancing scalability
