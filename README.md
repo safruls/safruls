@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a **Software Engineer** with a Master of Engineering degree from The University of Tokyo, specializing in both frontend and backend technologies. I'm passionate about building innovative web and mobile applications that deliver exceptional user experiences. With a proven track record of driving technical initiatives, improving system performance, and delivering user-centric solutions, I thrive on solving complex problems through clean, efficient code.
+I'm a **Software Engineer** with a Master of Engineering degree from The University of Tokyo, specializing in both frontend and backend technologies. I'm passionate about building innovative web and mobile applications that deliver exceptional user experiences. With a proven track record of driving technical initiatives, improving system performance, and delivering user-centric solutions, I enjoy working on solving complex problems and implementing clean code.
 
 **Location:** Jakarta, Indonesia  
 **Email:** safrulsetiawan@gmail.com  
@@ -72,6 +72,8 @@ I'm a **Software Engineer** with a Master of Engineering degree from The Univers
 
 **Live Demo:** [View Live](https://tampines-1-dev.firebaseapp.com/)
 
+---
+
 ## 🎓 Education
 
 ### **Master of Engineering in Systems Innovation**
@@ -97,7 +99,6 @@ I'm a **Software Engineer** with a Master of Engineering degree from The Univers
 
 ---
 
-
 ## 🤝 Let's Connect!
 
 I'm always interested in discussing new opportunities, collaborating on interesting projects, or just having a chat about technology and engineering. Feel free to reach out!
@@ -106,7 +107,6 @@ I'm always interested in discussing new opportunities, collaborating on interest
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:safrulsetiawan@gmail.com)
 
 ---
-
 
 ## 🌱 Currently Learning
 - Scientific Programming With Python
@@ -131,14 +131,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Skills
-- Front-end technologies using HTML, CSS, and JavaScript
-- Build customer-facing web apps using front-end frameworks such as React (a library actually), Angular, and Vue.js
-- Back-end programming language using Golang and Node.js
-- Database systems including MySQL, PostgreSQL, and NoSQL (MongoDB, ArangoDB)
-- Microfrontend architecture
-- Develop RESTful APIs and work with microservices architecture
-- Working knowledge on message queue technology (I use RabbitMQ)
-- Programming Languages: **JavaScript, Golang, Python**
 
 -->
