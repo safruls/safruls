@@ -68,7 +68,7 @@ I'm a **Software Engineer** with a Master of Engineering degree from The Univers
 - Pathfinding feature embedded to the app, enable users to find the route to their destination
 - List of shops and events on Tampines One Mall
 
-**Live Demo:** [View Live]([https://your-demo-link.com](https://tampines-1-dev.firebaseapp.com/))
+**Live Demo:** [View Live](https://tampines-1-dev.firebaseapp.com/)
 
 ## 🎓 Education
 
@@ -95,10 +95,6 @@ I'm a **Software Engineer** with a Master of Engineering degree from The Univers
 
 ---
 
-## Featured Work
-
-- **Tampines One Mall Wayfinding App**: https://tampines-1-dev.firebaseapp.com/
-- 
 
 ## 🤝 Let's Connect!
 
