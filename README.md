@@ -18,15 +18,16 @@ I'm a **Software Engineer** with a Master of Engineering degree from The Univers
 - 💳 Design and implement payment flow logic and third-party integrations using **Golang** and **RabbitMQ**, achieving a **20% improvement** in payment processing efficiency and **15% reduction** in integration errors
 - 📄 Build intuitive invoice forms and UI using **Laravel**, reducing user-reported issues by **30%** and streamlining invoice management for enterprises and SMEs
 
-### **Software Engineer** @ Xendit *(Feb 2022 - Feb 2024)*
+### **Software Engineer, Frontend** @ Xendit *(Feb 2022 - Feb 2024)*
 - 🏗️ Improved dashboard reliability and performance by implementing micro-frontend architecture with **Webpack**, reducing load time by **40%** and enhancing scalability
 - ⚡ Single-handedly drove UI localization project, from ideation to final implementation. Created automated workflow to add new languages for the app using **AWS S3** and **AWS Cloudfront** to host copytext on CDNs, reducing developer and copywriter workload from months to several weeks
 - 🎨 Developed and maintained the Xendit Design System using **Storybook**, **React**, and **Tailwind CSS**, reducing UI development time by **25%** and ensuring design consistency across products
 - ⚡ Built and maintained backend API gateway using **Node.js**, **PostgreSQL**, and **MongoDB**, reducing latency by **20%**
 
-### **Jr. Software Engineer** @ Xfers *(Dec 2020 - Feb 2022)*
+### **Jr. Software Engineer, Frontend** @ Xfers *(Dec 2020 - Feb 2022)*
 - 📚 Created the Xfers UI Components Library using **React** and **Storybook**, reducing UI development time by **35%** and ensuring consistency across projects
-- 💰 Developed Credit Card and Invoice Hosted Payment Sites for Indonesian and Singaporean merchants using **React**, **TypeScript**, **Webpack**, and **Antd**, increasing payment success rates by **25%** and reducing checkout abandonment by **15%**
+- 💰 Developed Credit Card and Invoice Hosted Payment Sites for Indonesian and Singaporean merchants using **React**, **TypeScript**, **Webpack**, and **Antd**, increasing payment success rates by **25%**
+- 🏗️ Improved Xfers SDK that was built on older version of **React**, modernized the UI design and improved the payment functionalities for the SDKs
 
 ---
 
