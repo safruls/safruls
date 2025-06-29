@@ -59,6 +59,17 @@ I'm a **Software Engineer** with a Master of Engineering degree from The Univers
 
 ---
 
+## 💼 Featured Projects
+
+### 🎯 Tampines One Mall Wayfinding App
+**Tech Stack:** React, JavaScript, Node.js, PostgreSQL
+
+**Key Features:**
+- Pathfinding feature embedded to the app, enable users to find the route to their destination
+- List of shops and events on Tampines One Mall
+
+**Live Demo:** [View Live]([https://your-demo-link.com](https://tampines-1-dev.firebaseapp.com/))
+
 ## 🎓 Education
 
 ### **Master of Engineering in Systems Innovation**
@@ -83,6 +94,11 @@ I'm a **Software Engineer** with a Master of Engineering degree from The Univers
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safruls&layout=compact&theme=radical)
 
 ---
+
+## Featured Work
+
+- **Tampines One Mall Wayfinding App**: https://tampines-1-dev.firebaseapp.com/
+- 
 
 ## 🤝 Let's Connect!
 
