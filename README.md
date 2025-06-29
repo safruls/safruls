@@ -20,6 +20,7 @@ I'm a **Software Engineer** with a Master of Engineering degree from The Univers
 
 ### **Software Engineer** @ Xendit *(Feb 2022 - Feb 2024)*
 - 🏗️ Improved dashboard reliability and performance by implementing micro-frontend architecture with **Webpack**, reducing load time by **40%** and enhancing scalability
+- ⚡ Single-handedly drove UI localization project, from ideation to final implementation. Created automated workflow to add new languages for the app using **AWS S3** and **AWS Cloudfront** to host copytext on CDNs, reducing developer and copywriter workload from months to several weeks
 - 🎨 Developed and maintained the Xendit Design System using **Storybook**, **React**, and **Tailwind CSS**, reducing UI development time by **25%** and ensuring design consistency across products
 - ⚡ Built and maintained backend API gateway using **Node.js**, **PostgreSQL**, and **MongoDB**, reducing latency by **20%**
 
