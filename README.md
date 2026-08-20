@@ -13,10 +13,14 @@ I'm a **Software Engineer** with a Master of Engineering degree from The Univers
 
 ## 🚀 Professional Experience
 
+### **Software Engineer, Fullstack** @ Superbank *(Feb 2026 - Present)*
+- Develop a web application using **NextJS** and **Golang**
+- Implement payment integrations using **Golang** and **Kafka**
+
 ### **Fullstack Engineer** @ Paper.id *(May 2024 - Feb 2026)*
-- 🎨 Develop responsive web applications for Paper Dashboard and Paper Internal Dashboard using **Angular** and **Vue**, significantly improving user experience and cross-platform compatibility
-- 💳 Design and implement payment flow logic and third-party integrations using **Golang** and **RabbitMQ**, achieving a **20% improvement** in payment processing efficiency and **15% reduction** in integration errors
-- 📄 Build intuitive invoice forms and UI using **Laravel**, reducing user-reported issues by **30%** and streamlining invoice management for enterprises and SMEs
+- 🎨 Developed responsive web applications for Paper Dashboard and Paper Internal Dashboard using **Angular** and **Vue**, significantly improving user experience and cross-platform compatibility
+- 💳 Designed and implemented payment flow logic and third-party integrations using **Golang** and **RabbitMQ**, achieving a **20% improvement** in payment processing efficiency and **15% reduction** in integration errors
+- 📄 Built intuitive invoice forms and UI using **Laravel**, reducing user-reported issues by **30%** and streamlining invoice management for enterprises and SMEs
 
 ### **Software Engineer, Frontend** @ Xendit *(Feb 2022 - Feb 2024)*
 - 🏗️ Improved dashboard reliability and performance by implementing micro-frontend architecture with **Webpack**, reducing load time by **40%** and enhancing scalability
@@ -36,10 +40,12 @@ I'm a **Software Engineer** with a Master of Engineering degree from The Univers
 ### **Frontend Development**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![NextJS](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### **Backend Development**
 ![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -52,12 +58,14 @@ I'm a **Software Engineer** with a Master of Engineering degree from The Univers
 ![ArangoDB](https://img.shields.io/badge/-ArangoDB-DDE072?style=flat-square&logo=arangodb&logoColor=black)
 
 ### **Tools & Platforms**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=flat-square&logo=aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 
 ---
 
@@ -93,9 +101,9 @@ I'm a **Software Engineer** with a Master of Engineering degree from The Univers
 
 ## 📊 GitHub Stats
 
-<!-- ![Safrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=safruls&show_icons=true&theme=radical) -->
+<!-- ![Safrul's GitHub stats](https://github-stats-extended.vercel.app/api?username=safruls&show_icons=true&theme=radical) -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safruls&layout=compact&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=safruls&layout=compact&theme=radical)
 
 ---
 
